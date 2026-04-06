@@ -1,0 +1,13 @@
+data_model,method,cverr,runtime,error
+boston_housing,Mean,0.1668323429998443,0.0003884999987349147,
+boston_housing,RandomForest,0.027494785944352045,0.3162599000006594,
+boston_housing,XGBoost,,,xgboost is required. Install with: pip install xgboost
+california_housing,Mean,,,Failed to download https://raw.githubusercontent.com/szcf-weiya/ESL-CN/master/data/Housing/raw_data.csv after 5 attempts
+california_housing,RandomForest,,,Failed to download https://raw.githubusercontent.com/szcf-weiya/ESL-CN/master/data/Housing/raw_data.csv after 5 attempts
+california_housing,XGBoost,,,Failed to download https://raw.githubusercontent.com/szcf-weiya/ESL-CN/master/data/Housing/raw_data.csv after 5 attempts
+casp,Mean,37.43729543082786,0.01359739999861631,
+casp,RandomForest,12.459902894289282,5.724261800000022,
+casp,XGBoost,,,xgboost is required. Install with: pip install xgboost
+abalone,Mean,10.39132701826681,0.001218499999595224,
+abalone,RandomForest,4.753068873162766,0.5191638000014791,
+abalone,XGBoost,,,xgboost is required. Install with: pip install xgboost
